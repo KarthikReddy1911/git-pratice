@@ -1,0 +1,39 @@
+module tb_adder_t1;
+  logic[3:0] sum=0, a, b;
+  logic ci,co=0;
+  
+  
+  adder_t1 U1(co, sum, a, b, ci);
+  
+  initial begin
+   a=0;
+$display("a=%d,b=%d,ci=%d,sum=%d,co=%d,", a, b, ci,sum,co):
+   b=0;
+$display("a=%d,b=%d,ci=%d,sum=%d,co=%d,", a, b, ci,sum,co):
+
+    ci=0;
+$display("a=%d,b=%d,ci=%d,sum=%d,co=%d,", a, b, ci,sum,co):
+
+    sum=0;
+$display("a=%d,b=%d,ci=%d,sum=%d,co=%d,", a, b, ci,sum,co):
+
+    #15 a=4'hA;
+$display("a=%d,b=%d,ci=%d,sum=%d,co=%d,", a, b, ci,sum,co):
+
+    #2 b=3;
+$display("a=%d,b=%d,ci=%d,sum=%d,co=%d,", a, b, ci,sum,co):
+
+    #2 a=2;
+$display("a=%d,b=%d,ci=%d,sum=%d,co=%d,", a, b, ci,sum,co):
+
+    #2 a=15;
+$display("a=%d,b=%d,ci=%d,sum=%d,co=%d,", a, b, ci,sum,co):
+
+    #3 ci=1;
+    $display("a=%d,b=%d,ci=%d,sum=%d,co=%d,", a, b, ci,sum,co):
+
+    #10 $finish();
+  end
+  
+
+endmodule

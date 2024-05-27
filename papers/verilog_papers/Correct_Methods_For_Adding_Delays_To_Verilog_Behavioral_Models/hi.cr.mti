@@ -1,0 +1,141 @@
+C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t2.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\Pardha\Desktop\papers\Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models\tb_adder_t2.sv}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_adder_t2
+
+Top level modules:
+	tb_adder_t2
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t7ab.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t7ab.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_adder_t7a
+
+Top level modules:
+	tb_adder_t7a
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t10ab.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t10ab.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_adder_t10b
+
+Top level modules:
+	tb_adder_t10b
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t4.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t4.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_adder_t4
+
+Top level modules:
+	tb_adder_t4
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t2.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder_t2
+
+Top level modules:
+	adder_t2
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t7ab.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t7ab.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder_t7a
+
+Top level modules:
+	adder_t7a
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t6.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t6.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_adder_t6
+
+Top level modules:
+	tb_adder_t6
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t4.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t4.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder_t4
+
+Top level modules:
+	adder_t4
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t9cd.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t9cd.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_adder_t9d
+
+Top level modules:
+	tb_adder_t9d
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t11ab.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t11ab.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder_t11b
+
+Top level modules:
+	adder_t11b
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t1.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\Pardha\Desktop\papers\Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models\tb_adder_t1.sv}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_adder_t1
+
+Top level modules:
+	tb_adder_t1
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t6.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t6.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder_t6
+
+Top level modules:
+	adder_t6
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t9cd.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t9cd.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder_t9d
+
+Top level modules:
+	adder_t9d
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t3.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t3.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_adder_t3
+
+Top level modules:
+	tb_adder_t3
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t1.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\Pardha\Desktop\papers\Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models\adder_t1.sv}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder_t1
+
+Top level modules:
+	adder_t1
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t11ab.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t11ab.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_adder_t11b
+
+Top level modules:
+	tb_adder_t11b
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/tb_adder_t5.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\Pardha\Desktop\papers\Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models\tb_adder_t5.sv}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_adder_t5
+
+Top level modules:
+	tb_adder_t5
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t3.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t3.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder_t3
+
+Top level modules:
+	adder_t3
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t10ab.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t10ab.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder_t10b
+
+Top level modules:
+	adder_t10b
+
+} {} {}} C:/Users/Pardha/Desktop/papers/Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models/adder_t5.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\Pardha\Desktop\papers\Correct_Methods_For_Adding_Delays_To_Verilog_Behavioral_Models\adder_t5.sv}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder_t5
+
+Top level modules:
+	adder_t5
+
+} {} {}}

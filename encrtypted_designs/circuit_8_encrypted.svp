@@ -1,0 +1,32 @@
+module gates_u1  (
+  port1,
+  port2,
+  port3
+);
+
+    `pragma protect begin_protected
+`pragma protect version = 1
+`pragma protect author = "IP Provider" , author_info = "Widget 5 v3.2"
+`pragma protect encrypt_agent = "QuestaSim" , encrypt_agent_info = "10.6c"
+`pragma protect key_keyowner = "Mentor Graphics Corporation" , key_keyname = "MGC-VERIF-SIM-RSA-2"
+`pragma protect key_method = "rsa"
+`pragma protect encoding = ( enctype = "base64" , line_length = 64 , bytes = 256 )
+`pragma protect key_block
+QKPP4Q0NLSBjrB5bTqgyar9Ky4O1pQd3WQxHvBMuLKqotFPMgquGmpNfgPZSF5IP
+IxJZOr75OJaYaVpomVhZUf+i9FbrFDjcS0sq4opSI6iyJ4WzGDEwDY7HjehOORYW
+dylzCXVy2urHXSrhCWARNhUksdv8P2h75nxwm9YCHkh5qIv+bpQlD/rSQB/XoEbV
+TTwXGm/kEaleTLsgkSxBc7DVM0PVc3tm4cSxxdbihx9JbZELzzqO6XDvH5dbo/IY
+4CWVlV/B0tcCt9Tb4oZ0nw3TEDita3a+p1v7KU2KEFyXxx0X6KZn20kktTaKz2Js
+AVxhq+oD+hMagnjNC9XdTg==
+`pragma protect data_method = "aes128-cbc"
+`pragma protect encoding = ( enctype = "base64" , line_length = 64 , bytes = 240 )
+`pragma protect data_block
+lOJrPyOfRKzg1dVIrxXs5u4LrLsIlTauGAySUd9JWLxl4ThdszBFuKqlb4JwHL9Z
+Gts5lqfzL5VIfWIi4sWMeodk8xKHCA7wkmUaypenXwNKbNrNMFr/hEtDI157dGOI
+JmQEDHrEZDskw0som2JTON0QLbdWqCC/VuGytQV4m5PQf0gIJwuSAKBRJuo8muwv
+LmDdPGrAGtCACSwloAfY5INGFlBYiMBO6bytyUlkqTldJ5mBx0gi0moi4G8cMNld
+Jhx/vaLpBY9+vCLpPxANCYu+V8iy09U6f07f2BwyE75CNLIZjgb2j71Rq29AJALE
+`pragma protect end_protected 
+
+endmodule
+

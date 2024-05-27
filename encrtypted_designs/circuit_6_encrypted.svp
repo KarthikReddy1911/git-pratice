@@ -1,0 +1,39 @@
+module circuit_6(port2, port1);
+
+    `pragma protect begin_protected
+`pragma protect version = 1
+`pragma protect author = "IP Provider" , author_info = "Widget 5 v3.2"
+`pragma protect encrypt_agent = "QuestaSim" , encrypt_agent_info = "10.6c"
+`pragma protect key_keyowner = "Mentor Graphics Corporation" , key_keyname = "MGC-VERIF-SIM-RSA-2"
+`pragma protect key_method = "rsa"
+`pragma protect encoding = ( enctype = "base64" , line_length = 64 , bytes = 256 )
+`pragma protect key_block
+LGcSKTPaQan3pdQzae2jym4WgtcgDMclX4eMu9QCCQcdlUazw8LedQSGvDZb7Ty2
+5I1baKtO1n9MMM0n1PlmuiivQEI+1lhuJsj9zuwelvQWmZBUTKDqAkxrFwiW4pkx
+gEVg4UP0S24oFjA+jul7huuDKw/EJZPD9K1gzcPKAipgfxiWGnzkOOm6OxNydc7r
+NhAgAeuoB5NgR33qJ18qhjnwvro9BUdM0eM0ciYkfR+wyN2FERGR+CnHEiDiIJ9H
+NHDZnxNWieNcpGHEDOzZE1/GG6FeUXopSxTyuG3d625huCb6FvNkWFyLJb8ytqxn
+q061R7ao0FOpJA49/eeh9w==
+`pragma protect data_method = "aes128-cbc"
+`pragma protect encoding = ( enctype = "base64" , line_length = 64 , bytes = 736 )
+`pragma protect data_block
+4M8EdfBi4Wb0vusW7UtPukKasdn9WLmzd1NbcG7wBCCZB+eNqOjyEmH0LiD8mS8x
+yswM9+7/mzWUKHp37AqDHOrdkpkNWbG9CrAX3JfehzYpk/tove83Fo8cr9gxp/yT
+wCCYK2VhS8+i0w5sN4QdTxH5bMjCpRiweBsXT8cnSNvDCyFRstpD7ptaU+bclm9t
+efwW+1WQ56AQJqZeYi5I3gwrq0yU03ac819J2zdF2VqkgJl1SK32w0MgcM5th4ZA
+Q1qjLp4Lf5HgtL9/j4fW9hFXjRwy3IRy+IvzEyL0i0gYg0CalARLS+lbkgLP7/6f
+yxBqjyM4/0BbEliZjg2A30BUHtYPQnjvexW6yoQuaQFsAjtP4G0tOOxf41VPgh4Q
+E2VfWtk0nv4PFEZt+sTpMFR9OpqlIE7D4OdojRhIWYLkxd/r/zdS0cYPPdOVfRhO
+dw9cxzcmy/i5m/BmPzk1q2D/inFA38gURURc7xuK5u/b2zJpSDaNpBEHRJLlVqHx
+csIhrlddFpD2hBgl1rTW85AQNDEhNeXRQ/NhmKBgCAGZDo1og1y1o4B3KlGGZZdE
+eiALkXGgcbtUuriDdraaB+d68c2gb0bvCAe04DXUCWjUkkaL8zFMwjhecKRgrZm5
+dYBQjY1S3+4VtV/ieNgPmayJflkCANE3XbXf/53hJSPUFMvpSsc0GTPmTMvedVHJ
+nx9rchbxTmkSOlMgzpIfzrJ2wQ1AUECwtLFwoOHDMcXe8ZcFNfPH6eMTlKqQDRSZ
+yuRoi3nk+rYENpmIR76h7L1rZshuEgh8tVeI5D59bToISiCN5PLAOtkFhcse29RR
+G98Ra/sML65olL7MfZ2ZBg/QR7qrJ71pW+ILL9nyfqv+KPhGLPytbOh3JRZR3Msx
+pcYiQLVKOWcWnnunBlJTdt9B9OTyjl2qsQM62byOjW7Dn/Akppq512Ex4fHp/ff8
+wNiGSdGRPcJHfyujDmiscg==
+`pragma protect end_protected 
+
+endmodule
+

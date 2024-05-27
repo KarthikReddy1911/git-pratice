@@ -1,0 +1,615 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Pardha/Desktop/papers/Memory
+T_opt
+!s110 1711385824
+VidN]klG@iz6SgS8_?^EE81
+Z1 04 7 4 work always1 fast 0
+=5-687a64d5b23b-6601ace0-23-8620
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.6c;65
+T_opt1
+!s110 1711176463
+V`hL`kl1J4?iX=d?8Vf8WA3
+R1
+=4-687a64d5b23b-65fe7b0f-ec-4c54
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1711381492
+VH[9PYIWVNKC0A54nG<`nP2
+R1
+=2-687a64d5b23b-66019bf4-1-2170
+o-quiet -auto_acc_if_foreign -work work
+R3
+n@_opt2
+R4
+R0
+valways1
+Z5 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1711385808
+!i10b 1
+!s100 ;:0i]D_]6nGeGAP1:S08P2
+I1aH^W[TPBXKX8F:N>6GB]1
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+!s105 always1_sv_unit
+S1
+Z7 dC:/Users/Pardha/Desktop/papers/FSM Papers
+w1711385801
+8C:\Users\Pardha\Desktop\papers\FSM Papers\always1.sv
+FC:\Users\Pardha\Desktop\papers\FSM Papers\always1.sv
+L0 1
+Z8 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1711385808.000000
+!s107 C:\Users\Pardha\Desktop\papers\FSM Papers\always1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Pardha\Desktop\papers\FSM Papers\always1.sv|
+!i113 0
+Z9 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vfsm1
+R5
+Z10 !s110 1711011144
+!i10b 1
+!s100 4^gfmj=jQf?AeMY:b0WDb2
+IeONcR`64G3I5ZE]F8BGV71
+R6
+Z11 !s105 fsm_cc1_1_sv_unit
+S1
+R7
+w1710998806
+Z12 8C:\Users\Pardha\Desktop\papers\FSM Papers\fsm_cc1_1.sv
+Z13 FC:\Users\Pardha\Desktop\papers\FSM Papers\fsm_cc1_1.sv
+L0 1
+R8
+r1
+!s85 0
+31
+Z14 !s108 1711011144.000000
+Z15 !s107 C:\Users\Pardha\Desktop\papers\FSM Papers\fsm_cc1_1.sv|
+Z16 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Pardha\Desktop\papers\FSM Papers\fsm_cc1_1.sv|
+!i113 0
+R9
+R3
+vfsm1a
+R5
+!s110 1710998747
+!i10b 1
+!s100 aYB=CjF>5c:dTnn``2a;71
+I3i31G4@GI9aYaeY0]LCCb3
+R6
+R11
+S1
+R7
+w1710998740
+R12
+R13
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1710998747.000000
+R15
+R16
+!i113 0
+R9
+R3
+vfsm2
+R5
+Z17 !s110 1711011145
+!i10b 1
+!s100 ;K4EAb8A2m23D4:BL^7ce3
+IB2U9CoiQVN1;bQXKCk2Be1
+R6
+!s105 tb_fsm_cc1_2_sv_unit
+S1
+R7
+w1710999014
+8C:\Users\Pardha\Desktop\papers\FSM Papers\tb_fsm_cc1_2.sv
+FC:\Users\Pardha\Desktop\papers\FSM Papers\tb_fsm_cc1_2.sv
+L0 1
+R8
+r1
+!s85 0
+31
+Z18 !s108 1711011145.000000
+!s107 C:\Users\Pardha\Desktop\papers\FSM Papers\tb_fsm_cc1_2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Pardha\Desktop\papers\FSM Papers\tb_fsm_cc1_2.sv|
+!i113 0
+R9
+R3
+vfsm3
+R5
+R10
+!i10b 1
+!s100 >STXYNRY`GI>=J4=E7M0k2
+IjKa6@oCJ7o[;<oRSUKbVY3
+R6
+!s105 fsm_cc1_3_sv_unit
+S1
+R7
+w1711000206
+8C:\Users\Pardha\Desktop\papers\FSM Papers\fsm_cc1_3.sv
+FC:\Users\Pardha\Desktop\papers\FSM Papers\fsm_cc1_3.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R14
+!s107 C:\Users\Pardha\Desktop\papers\FSM Papers\fsm_cc1_3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Pardha\Desktop\papers\FSM Papers\fsm_cc1_3.sv|
+!i113 0
+R9
+R3
+vfsm4
+R5
+R17
+!i10b 1
+!s100 8gb61O<`XBjh4c?0]aUhi1
+Ied7X>Az=0UR[nO<2=L[TG1
+R6
+!s105 fsm4_sv_unit
+S1
+R7
+w1711000545
+8C:\Users\Pardha\Desktop\papers\FSM Papers\fsm4.sv
+FC:\Users\Pardha\Desktop\papers\FSM Papers\fsm4.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R18
+!s107 C:\Users\Pardha\Desktop\papers\FSM Papers\fsm4.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Pardha\Desktop\papers\FSM Papers\fsm4.sv|
+!i113 0
+R9
+R3
+vfsm5
+R5
+R17
+!i10b 1
+!s100 _FIzjQzm>QgdnjOSEe6_i1
+IH_8@U31l;hQa<9?h=53CQ2
+R6
+!s105 fsm5_sv_unit
+S1
+R7
+w1711003052
+8C:\Users\Pardha\Desktop\papers\FSM Papers\fsm5.sv
+FC:\Users\Pardha\Desktop\papers\FSM Papers\fsm5.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R18
+!s107 C:\Users\Pardha\Desktop\papers\FSM Papers\fsm5.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Pardha\Desktop\papers\FSM Papers\fsm5.sv|
+!i113 0
+R9
+R3
+vfsm6
+R5
+R17
+!i10b 1
+!s100 gD<VhO3[TeA<zaT8331XL2
+IdOd2EK52i@n?_`SoOaH3c1
+R6
+!s105 fsm6_sv_unit
+S1
+R7
+w1711003846
+8C:\Users\Pardha\Desktop\papers\FSM Papers\fsm6.sv
+FC:\Users\Pardha\Desktop\papers\FSM Papers\fsm6.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R18
+!s107 C:\Users\Pardha\Desktop\papers\FSM Papers\fsm6.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Pardha\Desktop\papers\FSM Papers\fsm6.sv|
+!i113 0
+R9
+R3
+vfsm7
+R5
+R17
+!i10b 1
+!s100 7knVDz[[cUK:Loc@@^iI@0
+IT`YHcQiTR9M02kmJG^b4V0
+R6
+!s105 fsm7_sv_unit
+S1
+R7
+w1711003660
+8C:\Users\Pardha\Desktop\papers\FSM Papers\fsm7.sv
+FC:\Users\Pardha\Desktop\papers\FSM Papers\fsm7.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R18
+!s107 C:\Users\Pardha\Desktop\papers\FSM Papers\fsm7.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Pardha\Desktop\papers\FSM Papers\fsm7.sv|
+!i113 0
+R9
+R3
+m255
+K4
+z2
+!s8c locked
+!s95 MTI
+cModel Technology Builtin Library
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+d/u/qa/buildsites/10.6p/builds/linux/modeltech
+Xmti_cstdlib
+Z0 DXx4 work 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+V4XiVoMf1YFHh]FH1?zCVQ3
+r1
+!s85 0
+31
+Z1 OL;L;10.6c;65
+Z2 OP;L;10.6c;65
+!i10b 1
+!s100 m;mJYATadmZnJMG7^1?><2
+I4XiVoMf1YFHh]FH1?zCVQ3
+S1
+Z3 d$MODEL_TECH/..
+Z4 w1501040185
+Z5 8verilog_src/dpi_cpack/dpi_cpackages.sv
+Z6 Fverilog_src/dpi_cpack/dpi_cpackages.sv
+Z7 L0 17
+Z8 OE;L;10.6c;65
+Z9 !s108 1501042118.000000
+Z10 !s107 verilog_src/dpi_cpack/dpi_cpackages.sv|
+Z11 !s90 -debug|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/dpi_cpackages.sv|
+!i113 1
+Z12 o-debug -sv -s -work sv_std -dirpath {$MODEL_TECH/..} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+XMTI_CSTDLIB
+Z14 DXx4 work 3 STD 0 22 ZcMPak5P@8aeandK[C>dV0
+V?SI=Ez3dGL:I4jFL8oc`10
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 Mo>5fnoPI`cO[DF2^KH=E2
+I?SI=Ez3dGL:I4jFL8oc`10
+S1
+!s86 1
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+Z15 !s90 -debug|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/dpi_cpackages.sv|
+!i113 1
+Z16 o-debug -u -sv -s -work sv_std -dirpath {$MODEL_TECH/..} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R13
+n@m@t@i_@c@s@t@d@l@i@b
+Xmti_cstring
+R0
+V6fza496ObZoBVLJ14U[B01
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 THKYZQ9cE:4a163M1ME=i1
+I6fza496ObZoBVLJ14U[B01
+S1
+R3
+R4
+R5
+R6
+Z17 L0 28
+R8
+R9
+R10
+R11
+!i113 1
+R12
+R13
+XMTI_CSTRING
+R14
+VzFLUm@LW7c7SWCS6k1<lH0
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 L6GP^^R4e0Kz?0<:Fb5;z1
+IzFLUm@LW7c7SWCS6k1<lH0
+S1
+!s86 1
+R3
+R4
+R5
+R6
+R17
+R8
+R9
+R10
+R15
+!i113 1
+R16
+R13
+n@m@t@i_@c@s@t@r@i@n@g
+Xmti_debug
+R0
+V`S5KeF2PTzRIaMn3JK3I[1
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 e<Oo;?bJ_8`DY]gDzTD_A3
+I`S5KeF2PTzRIaMn3JK3I[1
+S1
+R3
+R4
+R5
+R6
+Z18 L0 47
+R8
+R9
+R10
+R11
+!i113 1
+R12
+R13
+XMTI_DEBUG
+R14
+Vk:1cii=K`LWO;HafQOa543
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 1HCenhP=Gk;P90i77POeB1
+Ik:1cii=K`LWO;HafQOa543
+S1
+!s86 1
+R3
+R4
+R5
+R6
+R18
+R8
+R9
+R10
+R15
+!i113 1
+R16
+R13
+n@m@t@i_@d@e@b@u@g
+Xmti_fcover
+R0
+V:CVPdMNFC1GhZPCUdNDT>3
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 BI4_][IRd`0JY_lLgEDF80
+I:CVPdMNFC1GhZPCUdNDT>3
+S1
+R3
+R4
+Z19 8verilog_src/mti_sv/fcover.sv
+Z20 Fverilog_src/mti_sv/fcover.sv
+L0 5
+R8
+Z21 !s108 1501042119.000000
+Z22 !s107 verilog_src/mti_sv/fcover.sv|
+!s90 -debug|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/mti_sv/fcover.sv|
+!i113 1
+R12
+R13
+XMTI_FCOVER
+R14
+V`9>Emb5Rh5zi<;HGn0SZP1
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 >l2@]COIE`Th;B4NX7Gk@3
+I`9>Emb5Rh5zi<;HGn0SZP1
+S1
+!s86 1
+R3
+R4
+R19
+R20
+L0 5
+R8
+R21
+R22
+!s90 -debug|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/mti_sv/fcover.sv|
+!i113 1
+R16
+R13
+n@m@t@i_@f@c@o@v@e@r
+Xmti_fli
+R0
+VQT@kbgllK[QggAhTk9NBF2
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 :Phg7_BD2gc55?cdk1?WR2
+IQT@kbgllK[QggAhTk9NBF2
+S1
+R3
+R4
+R5
+R6
+L0 4
+R8
+R9
+R10
+R11
+!i113 1
+R12
+R13
+XMTI_FLI
+R14
+VUmUggm=aY5JHkKfzUda3V2
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 l7m^V=N3eC_khKCOJ95:o3
+IUmUggm=aY5JHkKfzUda3V2
+S1
+!s86 1
+R3
+R4
+R5
+R6
+L0 4
+R8
+R9
+R10
+R15
+!i113 1
+R16
+R13
+n@m@t@i_@f@l@i
+Xmti_scdpi
+R0
+V;7PdP2P3]B47_S8M1?dM63
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 gg1o<5<OYfFmFTbih<ffm3
+I;7PdP2P3]B47_S8M1?dM63
+S1
+R3
+R4
+Z23 8verilog_src/dpi_cpack/scdpi.sv
+Z24 Fverilog_src/dpi_cpack/scdpi.sv
+L0 1
+R8
+R9
+Z25 !s107 verilog_src/dpi_cpack/scdpi.sv|
+!s90 -debug|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/scdpi.sv|
+!i113 1
+R12
+R13
+XMTI_SCDPI
+R14
+VCEQHmFSi2G9CK^>I53hHn2
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 G8e@bBMTl4dIdaEO6g2`n0
+ICEQHmFSi2G9CK^>I53hHn2
+S1
+!s86 1
+R3
+R4
+R23
+R24
+L0 1
+R8
+R21
+R25
+!s90 -debug|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/scdpi.sv|
+!i113 1
+R16
+R13
+n@m@t@i_@s@c@d@p@i
+Xstd
+VAD7iAPLo6nTIKk<N0eo=D3
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 mN__PO0]W?5>bVA6^<j:n1
+IAD7iAPLo6nTIKk<N0eo=D3
+S1
+R3
+R4
+Z26 8verilog_src/std/std.sv
+Z27 Fverilog_src/std/std.sv
+L0 6
+R8
+R9
+Z28 !s107 verilog_src/std/std.sv|
+!s90 -debug|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/std/std.sv|
+!i113 1
+R12
+R13
+XSTD
+VZcMPak5P@8aeandK[C>dV0
+r1
+!s85 0
+31
+R1
+R2
+!i10b 1
+!s100 9aG2>^JKV961YFP]:0deb1
+IZcMPak5P@8aeandK[C>dV0
+S1
+!s86 1
+R3
+R4
+R26
+R27
+L0 6
+R8
+R9
+R28
+!s90 -debug|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/std/std.sv|
+!i113 1
+R16
+R13
+n@s@t@d

@@ -1,0 +1,39 @@
+module circuit_3(port2, port1);
+
+
+    `pragma protect begin_protected
+`pragma protect version = 1
+`pragma protect author = "IP Provider" , author_info = "Widget 5 v3.2"
+`pragma protect encrypt_agent = "QuestaSim" , encrypt_agent_info = "10.6c"
+`pragma protect key_keyowner = "Mentor Graphics Corporation" , key_keyname = "MGC-VERIF-SIM-RSA-2"
+`pragma protect key_method = "rsa"
+`pragma protect encoding = ( enctype = "base64" , line_length = 64 , bytes = 256 )
+`pragma protect key_block
+jF1jrP4gYNigtjGoo14OJrwR/Wcw+HY/JzrC2cEvsWb/xPYVTH5dECqJ9arKekfn
+G/vkqQdaCcj9n/oGtzBvhzvMLA5sUxffPfuwkjeKSohk0CVkpXIXZjeXt5d90Yp3
+CasKhCV+sEhA9882jsDvnNfS5/fBZShBytKLCl/f20uwQO/t7Gj201bsneL9tynN
+oNx+15FrxuWnGzfQUIJlCD/AKiEoGirulbZG5MAqO3d0xeY0ze6I+v7X83Y8oYvK
+5WGdReLLHPDUcWSmuNU9+LnWsOvwk8UKPUv88i1hnHU6CIXmvj2MoZXIWMvmmJwY
+KEikAUJ69ZfA6mdLxvyD0w==
+`pragma protect data_method = "aes128-cbc"
+`pragma protect encoding = ( enctype = "base64" , line_length = 64 , bytes = 736 )
+`pragma protect data_block
+HQkgcOtlIScSPvpZOP2T1MVGf3bj7xLIcuG4k8r7UuXfcOkNyLaairTe+Dr8dsBJ
+q7J6bOx+ZeEVQrZWYLTECULZLaSTwwFIqb52iwVVwRcGkkcaBwOL65ZLLgI9RZ09
+GHldEtVbuGgJgb3y4B+kjb7bcqkFfoQ2U3bIEcgap4PwUsekEO0SzCH6CDBQr0rH
+gZD8CdJnWnSaikYLRSz4M2b9Np+y5jUljYchoH/GGuSgNcNxMpoYE+eJPLxZzbu2
+GBYrxh8aiCtCoNRB1GlopH64AqEwTxmWvs5qv8m7oCIzs9qNcsaRkB07dAes1xEh
+7Dk2Ns507q/IeAWe7ZQe4OpjGxO+glNJQeY+P4yBnu9JxJr7Q0B6hDpWkivXsRar
+YpZgWdIsuwAlKoTPVLlwTxFnqycSubaAFKKt3lSkHPD35OqSAhDzc8DUAZi3fzOm
+0cfDWiRGtooEq2ZDmu57B1474x14aBWJUegiyhy59k5sRGpgKMb0xv495nu/SURe
+JzVamKr2s3mKm9ZFprOk4GODtKIcYBqf7nNHYUTm7us9e64UrFC/TR47vm9zssaQ
+QPL2sFi7WruTaWL1AQigwoEnJUuJezkr8Tss8cUdDzoj8u4yFOvF7PKIbxm5hDk1
+16Dzg+vagOrx63QLeBCqqEbtQR4+5PYf5MvX6zvbiKD6+jCZlfVk+DOeBdCnull1
+/RcVpeakC0MCvOapApp04C5HrkNrj+UfncWiO6iJ4Rq42AAz4s2vdOn22PQpgXU+
+RBnD7oM6FQ4M32OeUQuVXmCz10fIMn+2bk7RmAS53PBZ+Yyd8tFgosxIGvZtB5eG
+Vh6uNIg8bfHb/u/aKnOvQZiy9sF7HjrIg3AEbiTPgxGum386c4LQkucEao8COEBE
+FH3VW35IVsCCs3rrRhIH9u2gPl367iczCC4HOV6eCOGh4lKHST7q9xVMRqkJ4sRM
+9rI3x5HTuLJwUaHGSi29aw==
+`pragma protect end_protected 
+
+endmodule
